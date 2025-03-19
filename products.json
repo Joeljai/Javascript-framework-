@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 999
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 699
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "price": 199
+  },
+  {
+    "id": 4,
+    "name": "Tablet",
+    "price": 499
+  },
+  {
+    "id": 5,
+    "name": "Smartwatch",
+    "price": 299
+  },
+  {
+    "id": 6,
+    "name": "Camera",
+    "price": 799
+  },
+  {
+    "id": 1742345525114,
+    "name": "Wireless Mouse",
+    "price": 29.99
+  }
+]
